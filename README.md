@@ -12,3 +12,5 @@ Primeira atividade do módulo:<br/>
 [Arquivos da Atividade](https://github.com/AlanLee1/Mentorama-Unity-Beginner/tree/main/Files/Module1)
 
 <img src="/Files/Module1/Game.gif" alt="project"/>
+
+Ajuda: Apesar de desmarcar a opção "has exit time", como fazer que o translate e o animator fiquem sincronizados?
