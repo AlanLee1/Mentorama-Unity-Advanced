@@ -13,4 +13,14 @@ Primeira atividade do módulo:<br/>
 
 <img src="/Files/Module1/Game.gif" alt="project"/>
 
-Ajuda: Apesar de desmarcar a opção "has exit time", como fazer que o translate e o animator fiquem sincronizados?
+<!-- Ajuda: Apesar de desmarcar a opção "has exit time", como fazer que o translate e o animator fiquem sincronizados? -->
+
+## Módulo 2
+
+Segunda atividade do módulo:<br/>
+3D Avançado: Criar um cenário e tentar replicar um objeto com o ProBuilder.<br/>
+[Arquivos da Atividade](https://github.com/AlanLee1/Mentorama-Unity-Advanced/tree/main/Files/Module2)
+
+| Scene | Object Game | Object Reference |
+| :----: | :----: | :----: |
+| <img src="/Files/Module2/Game.PNG" alt="project"/> | <img src="/Files/Module2/ObjectGame.PNG" alt="project"/> | <img src="/Files/Module2/ObjectReference.PNG" alt="project"/> |
