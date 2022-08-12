@@ -24,3 +24,15 @@ Segunda atividade do módulo:<br/>
 | Scene | Object Game | Object Reference |
 | :----: | :----: | :----: |
 | <img src="/Files/Module2/Game.PNG" alt="project"/> | <img src="/Files/Module2/ObjectGame.PNG" alt="project"/> | <img src="/Files/Module2/ObjectReference.PNG" alt="project"/> |
+
+## Módulo 3
+
+Terceira atividade do módulo:<br/>
+Criar um game com labirinto com o jogador controlando um personagem e um vilão perseguindo pelo labirinto
+- Utilizando NavMesh
+[Arquivos da Atividade](https://github.com/AlanLee1/Mentorama-Unity-Advanced/tree/main/Files/Module3)
+
+| Game |
+| :----: |
+| <img src="/Files/Module3/Game.gif" alt="project"/> |
+
