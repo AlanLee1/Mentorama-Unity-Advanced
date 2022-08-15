@@ -46,4 +46,13 @@ Criar um terreno, utilizando as ferramentas de topologia, pintar textura e adici
 | :----: | :----: | :----: |
 | <img src="/Files/Module4/Game.gif" alt="project"/> | <img src="/Files/Module4/Terrain.PNG" alt="project"/> | <img src="/Files/Module4/SplatAlpha.PNG" alt="project"/> |
 
+## Módulo 5
+
+Quinta atividade do módulo:<br/>
+Utilizar Input System para o carro ter um sistema de atirar.<br/>
+[Arquivos da Atividade](https://github.com/AlanLee1/Mentorama-Unity-Advanced/tree/main/Files/Module5)
+
+| Game | InputAction | Code |
+| :----: | :----: | :----: |
+| <img src="/Files/Module5/Game.gif" alt="project"/> | <img src="/Files/Module5/InputAction.PNG" alt="project"/> | <img src="/Files/Module5/Code.PNG" alt="project"/> |
 
