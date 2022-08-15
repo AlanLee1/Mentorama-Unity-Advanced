@@ -36,3 +36,14 @@ Criar um game com labirinto com o jogador controlando um personagem e um vilão 
 | :----: |
 | <img src="/Files/Module3/Game.gif" alt="project"/> |
 
+## Módulo 4
+
+Quarta atividade do módulo:<br/>
+Criar um terreno, utilizando as ferramentas de topologia, pintar textura e adicionar vegetação.<br/>
+[Arquivos da Atividade](https://github.com/AlanLee1/Mentorama-Unity-Advanced/tree/main/Files/Module4)
+
+| Game | Terrain | SplatAlpha |
+| :----: | :----: | :----: |
+| <img src="/Files/Module4/Game.gif" alt="project"/> | <img src="/Files/Module4/Terrain.PNG" alt="project"/> | <img src="/Files/Module4/SplatAlpha.PNG" alt="project"/> |
+
+
