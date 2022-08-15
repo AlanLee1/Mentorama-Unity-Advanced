@@ -54,5 +54,5 @@ Utilizar Input System para o carro ter um sistema de atirar.<br/>
 
 | Game | InputAction | Code |
 | :----: | :----: | :----: |
-| <img src="/Files/Module5/Game.gif" alt="project"/> | <img src="/Files/Module5/InputAction.PNG" alt="project"/> | <img src="/Files/Module5/Code.PNG" alt="project"/> |
+| <img src="/Files/Module5/Game.gif" alt="project"/> | <img src="/Files/Module5/InputAction.png" alt="project"/> | <img src="/Files/Module5/Code.png" alt="project"/> |
 
