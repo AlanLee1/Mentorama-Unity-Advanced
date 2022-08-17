@@ -56,3 +56,13 @@ Utilizar Input System para o carro ter um sistema de atirar.<br/>
 | :----: | :----: | :----: |
 | <img src="/Files/Module5/Game.gif" alt="project"/> | <img src="/Files/Module5/InputAction.png" alt="project"/> | <img src="/Files/Module5/Code.png" alt="project"/> |
 
+## Módulo 6
+
+Sexta atividade do módulo:<br/>
+Criar um sistema com personagem, e escolher quais das cameras implementar: thrithy person follow, simple cam ou free look.<br/>
+[Arquivos da Atividade](https://github.com/AlanLee1/Mentorama-Unity-Advanced/tree/main/Files/Module6)
+
+| Game | InputAction | Code |
+| :----: | :----: | :----: |
+| <img src="/Files/Module5/Game.mp4" alt="project"/> | <img src="/Files/Module5/InputAction.png" alt="project"/> | <img src="/Files/Module5/Code.png" alt="project"/> |
+
