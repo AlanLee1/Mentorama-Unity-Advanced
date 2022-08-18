@@ -72,3 +72,4 @@ Criar uma cutscene utilizando conceitos de Timeline<br/>
 
 https://user-images.githubusercontent.com/40280348/185396898-1506f4ea-5027-47a0-9509-370c1319b670.mp4
 
+Ajuda: Como faz para controlar e escolher a rotação da camera sem colocar um "Follow" ou "Look At", durante a utilização do Dolly Track
