@@ -69,5 +69,3 @@ https://user-images.githubusercontent.com/40280348/185224710-69eb3b70-1324-4354-
 Sétima atividade do módulo:<br/>
 Criar uma cutscene utilizando conceitos de Timeline<br/>
 [Arquivos da Atividade](https://github.com/AlanLee1/Mentorama-Unity-Advanced/tree/main/Files/Module7)
-
-
