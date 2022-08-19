@@ -82,4 +82,4 @@ Iluminar uma cena pré montada de uma caverna.<br/>
 
 | Lantern | CrystalAfter | CrystalBefore |
 | :----: | :----: | :----: |
-| <img src="/Files/Module5/Lantern.gif" alt="project"/> | <img src="/Files/Module5/CrystalAfter.PNG" alt="project"/> | <img src="/Files/Module5/CrystalBefore.PNG" alt="project"/> |
+| <img src="/Files/Module8/Lantern.gif" alt="project"/> | <img src="/Files/Module8/CrystalAfter.PNG" alt="project"/> | <img src="/Files/Module8/CrystalBefore.PNG" alt="project"/> |
