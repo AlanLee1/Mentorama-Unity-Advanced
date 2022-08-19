@@ -65,7 +65,7 @@ Criar um sistema com personagem, e escolher quais das cameras implementar: thrit
 https://user-images.githubusercontent.com/40280348/185224710-69eb3b70-1324-4354-987e-846ee1831d73.mp4
 
 ## Módulo 7
-
+3
 Sétima atividade do módulo:<br/>
 Criar uma cutscene utilizando conceitos de Timeline<br/>
 [Arquivos da Atividade](https://github.com/AlanLee1/Mentorama-Unity-Advanced/tree/main/Files/Module7)
@@ -83,3 +83,5 @@ Iluminar uma cena pré montada de uma caverna.<br/>
 | Lantern | CrystalAfter | CrystalBefore |
 | :----: | :----: | :----: |
 | <img src="/Files/Module8/Lantern.gif" alt="project"/> | <img src="/Files/Module8/CrystalAfter.PNG" alt="project"/> | <img src="/Files/Module8/CrystalBefore.PNG" alt="project"/> |
+
+https://user-images.githubusercontent.com/40280348/185629839-e6fe0341-3a5c-4d8a-8950-74c3e0b86751.mp4
