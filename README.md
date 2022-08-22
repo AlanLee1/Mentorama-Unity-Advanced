@@ -113,3 +113,13 @@ Criar <br/>
 | Game | ShaderGraph |
 | :----: | :----: |
 | <img src="/Files/Module11/Game.gif" alt="project"/> | <img src="/Files/Module11/ShaderGraph.PNG" alt="project"/> |
+
+## Módulo 12
+
+Décima Segunda atividade do módulo:<br/>
+Criar um shader que tenha um slider para aplicar uma escala de cinza<br/>
+[Arquivos da Atividade](https://github.com/AlanLee1/Mentorama-Unity-Advanced/tree/main/Files/Module11)
+
+| Game | ShaderGraph |
+| :----: | :----: |
+| <img src="/Files/Module11/Game.gif" alt="project"/> | <img src="/Files/Module11/ShaderGraph.PNG" alt="project"/> |
