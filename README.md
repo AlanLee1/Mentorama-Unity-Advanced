@@ -85,3 +85,23 @@ Iluminar uma cena pré montada de uma caverna.<br/>
 | <img src="/Files/Module8/Lantern.gif" alt="project"/> | <img src="/Files/Module8/CrystalAfter.PNG" alt="project"/> | <img src="/Files/Module8/CrystalBefore.PNG" alt="project"/> |
 
 https://user-images.githubusercontent.com/40280348/185629839-e6fe0341-3a5c-4d8a-8950-74c3e0b86751.mp4
+
+## Módulo 9
+
+Nona atividade do módulo:<br/>
+Preparar um cena aplicando efeitos de pós-processamento.<br/>
+[Arquivos da Atividade](https://github.com/AlanLee1/Mentorama-Unity-Advanced/tree/main/Files/Module9)
+
+
+
+## Módulo 10
+
+Décima atividade do módulo:<br/>
+Criar um projétil<br/>
+[Arquivos da Atividade](https://github.com/AlanLee1/Mentorama-Unity-Advanced/tree/main/Files/Module10)
+
+| Game |
+| :----: |
+| <img src="/Files/Module10/Game.gif" alt="project"/> |
+
+
