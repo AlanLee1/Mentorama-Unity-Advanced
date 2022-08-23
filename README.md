@@ -107,7 +107,7 @@ Criar um projétil<br/>
 ## Módulo 11
 
 Décima Primeira atividade do módulo:<br/>
-Criar <br/>
+Criar um shader que tenha um slider para aplicar uma escala de cinza<br/>
 [Arquivos da Atividade](https://github.com/AlanLee1/Mentorama-Unity-Advanced/tree/main/Files/Module11)
 
 | Game | ShaderGraph |
@@ -117,9 +117,17 @@ Criar <br/>
 ## Módulo 12
 
 Décima Segunda atividade do módulo:<br/>
-Criar um shader que tenha um slider para aplicar uma escala de cinza<br/>
-[Arquivos da Atividade](https://github.com/AlanLee1/Mentorama-Unity-Advanced/tree/main/Files/Module11)
+Responder questionário sobre otimização de projeto.<br/>
+[Arquivos da Atividade](https://github.com/AlanLee1/Mentorama-Unity-Advanced/tree/main/Files/Module12)
 
-| Game | ShaderGraph |
-| :----: | :----: |
-| <img src="/Files/Module11/Game.gif" alt="project"/> | <img src="/Files/Module11/ShaderGraph.PNG" alt="project"/> |
+Respostas:
+1)  C
+2)  D
+3)  B
+4)  D
+5)  B
+6)  A
+7)  C
+8)  C
+9)  A
+10) D
