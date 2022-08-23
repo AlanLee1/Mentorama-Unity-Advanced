@@ -121,13 +121,16 @@ Responder questionário sobre otimização de projeto.<br/>
 [Arquivos da Atividade](https://github.com/AlanLee1/Mentorama-Unity-Advanced/tree/main/Files/Module12)
 
 Respostas:
-1)  C
-2)  D
-3)  B
-4)  D
-5)  B
-6)  A
-7)  C
-8)  C
-9)  A
-10) D
+
+| 1)  C | 2)  D | 3)  B | 4)  D | 5)  B |
+| :----: | :----: | :----: | :----: | :----: |
+| 6)  A | 7)  C | 8)  C | 9)  A | 10) D |
+
+
+
+
+
+
+
+
+
