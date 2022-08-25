@@ -137,10 +137,4 @@ Conceitos utilizados: Animation Rigging, TimeLine, Cinemachine, New Input System
 | :----: | :----: |
 | <img src="/Files/Module13/TimeLine.PNG" alt="project"/> | <img src="/Files/Module13/ControlAnimation.png" alt="project"/> |
 
-
-
-
-
-
-
-
+https://user-images.githubusercontent.com/40280348/186695301-95d8de82-1439-4cfb-8f7d-e0f46d94f8a5.mp4
