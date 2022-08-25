@@ -126,6 +126,16 @@ Respostas:
 | :----: | :----: | :----: | :----: | :----: |
 | 6)  A | 7)  C | 8)  C | 9)  A | 10) D |
 
+## Módulo 13
+
+Décima Terceira atividade do módulo:<br/>
+Criar uma animação do personagem 3D, animando o rig para a mão ir até uma macaneta e abrir a porta<br/>
+Conceitos utilizados: Animation Rigging, TimeLine, Cinemachine, New Input System, Animator Controller & Animations, Ilumination Baked, Ilumination RealTime, Trigger
+[Arquivos da Atividade](https://github.com/AlanLee1/Mentorama-Unity-Advanced/tree/main/Files/Module13)
+
+| Game | TimeLine | Code |
+| :----: | :----: | :----: |
+| <img src="/Files/Module11/Game.gif" alt="project"/> | <img src="/Files/Module11/TimeLine.PNG" alt="project"/> | <img src="/Files/Module11/ControlAnimation.PNG" alt="project"/> |
 
 
 
