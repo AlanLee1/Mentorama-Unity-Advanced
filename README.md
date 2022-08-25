@@ -133,9 +133,9 @@ Criar uma animação do personagem 3D, animando o rig para a mão ir até uma ma
 Conceitos utilizados: Animation Rigging, TimeLine, Cinemachine, New Input System, Animator Controller & Animations, Ilumination Baked, Ilumination RealTime, Trigger
 [Arquivos da Atividade](https://github.com/AlanLee1/Mentorama-Unity-Advanced/tree/main/Files/Module13)
 
-| Game | TimeLine | Code |
-| :----: | :----: | :----: |
-| <img src="/Files/Module11/Game.gif" alt="project"/> | <img src="/Files/Module11/TimeLine.PNG" alt="project"/> | <img src="/Files/Module11/ControlAnimation.PNG" alt="project"/> |
+| TimeLine | Code |
+| :----: | :----: |
+| <img src="/Files/Module13/TimeLine.PNG" alt="project"/> | <img src="/Files/Module13/ControlAnimation.png" alt="project"/> |
 
 
 
