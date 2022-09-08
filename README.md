@@ -28,7 +28,7 @@ Segunda atividade do módulo:<br/>
 ## Módulo 3
 
 Terceira atividade do módulo:<br/>
-Criar um game com labirinto com o jogador controlando um personagem e um vilão perseguindo pelo labirinto
+Criar um game com labirinto com o jogador controlando um personagem e um vilão perseguindo pelo labirinto.
 - Utilizando NavMesh
 [Arquivos da Atividade](https://github.com/AlanLee1/Mentorama-Unity-Advanced/tree/main/Files/Module3)
 
@@ -72,7 +72,7 @@ Criar uma cutscene utilizando conceitos de Timeline<br/>
 
 https://user-images.githubusercontent.com/40280348/185396898-1506f4ea-5027-47a0-9509-370c1319b670.mp4
 
-Ajuda: Como faz para controlar e escolher a rotação da camera sem colocar um "Follow" ou "Look At", durante a utilização do Dolly Track
+<!-- Ajuda: Como faz para controlar e escolher a rotação da camera sem colocar um "Follow" ou "Look At", durante a utilização do Dolly Track. -->
 
 ## Módulo 8
 
@@ -97,7 +97,7 @@ https://user-images.githubusercontent.com/40280348/185885618-de642428-1ca5-42a8-
 ## Módulo 10
 
 Décima atividade do módulo:<br/>
-Criar um projétil<br/>
+Criar um projétil.<br/>
 [Arquivos da Atividade](https://github.com/AlanLee1/Mentorama-Unity-Advanced/tree/main/Files/Module10)
 
 | Game |
@@ -107,7 +107,7 @@ Criar um projétil<br/>
 ## Módulo 11
 
 Décima Primeira atividade do módulo:<br/>
-Criar um shader que tenha um slider para aplicar uma escala de cinza<br/>
+Criar um shader que tenha um slider para aplicar uma escala de cinza.<br/>
 [Arquivos da Atividade](https://github.com/AlanLee1/Mentorama-Unity-Advanced/tree/main/Files/Module11)
 
 | Game | ShaderGraph |
@@ -130,7 +130,7 @@ Respostas:
 
 Décima Terceira atividade do módulo:<br/>
 Criar uma animação do personagem 3D, animando o rig para a mão ir até uma macaneta e abrir a porta<br/>
-Conceitos utilizados: Animation Rigging, TimeLine, Cinemachine, New Input System, Animator Controller & Animations, Ilumination Baked, Ilumination RealTime, Trigger
+Conceitos utilizados: Animation Rigging, TimeLine, Cinemachine, New Input System, Animator Controller & Animations, Ilumination Baked, Ilumination RealTime e Trigger.
 [Arquivos da Atividade](https://github.com/AlanLee1/Mentorama-Unity-Advanced/tree/main/Files/Module13)
 
 | TimeLine | Code |
@@ -138,3 +138,19 @@ Conceitos utilizados: Animation Rigging, TimeLine, Cinemachine, New Input System
 | <img src="/Files/Module13/TimeLine.PNG" alt="project"/> | <img src="/Files/Module13/ControlAnimation.png" alt="project"/> |
 
 https://user-images.githubusercontent.com/40280348/186695301-95d8de82-1439-4cfb-8f7d-e0f46d94f8a5.mp4
+
+## Módulo 14
+
+Décima Quarta atividade do módulo:<br/>
+Criar um script que abra uma janela para manipular todos os PlayersPrefs do jogo.<br/>
+[Arquivos da Atividade](https://github.com/AlanLee1/Mentorama-Unity-Advanced/tree/main/Files/Module14)
+
+| PanelPlayerPrefs |
+| :----: |
+| <img src="/Files/Module14/Game.gif" alt="project"/> |
+## Módulo 15
+
+Décima Quinta atividade do módulo:<br/>
+Criar <br/>
+[Arquivos da Atividade](https://github.com/AlanLee1/Mentorama-Unity-Advanced/tree/main/Files/Module15)
+
