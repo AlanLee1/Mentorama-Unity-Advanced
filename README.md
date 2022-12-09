@@ -175,6 +175,11 @@ Fazer o chefão; Criar animação para abrir a estátua e liberar o premio; Mens
 - Criado animação para estrela e final do jogo;
 - Criado cena final.
 
-| Aula | Tarefa |
-| :----: | :----: |
-| <img src="/Files/Module16/Aula/Game.gif" alt="project"/> |
+| Aula |
+| :----: |
+| <img src="/Files/Module16/Aula/Game.gif" alt="project"/> | 
+
+https://user-images.githubusercontent.com/40280348/206710829-beaf9a5e-e42a-4b2e-8930-e2a0dddea188.mp4
+
+
+
