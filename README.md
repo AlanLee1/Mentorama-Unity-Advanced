@@ -157,3 +157,24 @@ Fazer uma ferramenta util para o dia a dia do desenvolvimento<br/>
 | SceneViewer |
 | :----: |
 | <img src="/Files/Module15/Game.gif" alt="project"/> |
+
+## Módulo 16
+
+Décima Sexta atividade do módulo:<br/>
+Fazer o chefão; Criar animação para abrir a estátua e liberar o premio; Mensagem final de jogo concluído.<br/>
+[Arquivos da Atividade](https://github.com/AlanLee1/Mentorama-Unity-Advanced/tree/main/Files/Module16)
+
+- Alterado o parametro do Animator "isWalking" para "isRunning" no EnemyController (Ethan);
+- Alterado o parametro do Animator "isWalking" para "isRunning" no EnemyController (NormalEnemy);
+- Adicionado a função HideSwordTrail e ShowSwordTrail;
+- Adicionado o código "EnemyViewRange" no boss;
+- Adicionado no prefab WayPoints para o Dark Ethan e colocado para modo patrol;
+- Criado novo EnemyData com valores maiores;
+- Correção no script do collect_Heart;
+- Criado animação para sumir com a estatua;
+- Criado animação para estrela e final do jogo;
+- Criado cena final.
+
+| Aula | Tarefa |
+| :----: | :----: |
+| <img src="/Files/Module16/Aula/Game.gif" alt="project"/> |
